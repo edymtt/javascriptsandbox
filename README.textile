@@ -1,0 +1,9 @@
+h1. Javascript Sandbox
+
+This git repository contains some simple examples of Javascript
+
+h2. Notable things
+
+h3. Mark of Web
+
+To debug locally with IE, it is better to set the "Mark Of Web":http://superuser.com/a/94488
